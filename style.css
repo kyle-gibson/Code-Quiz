@@ -38,6 +38,42 @@ body {
     width: auto;
     color: white;
     top: 30%;
-    left: 55%;
+    font-size: 20px;
+    left: auto;
 }
 
+button {
+    border-radius: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#reset {
+    background-color: cornflowerblue;
+    position: relative;
+    color: white;
+    top: 30%;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+}
+
+#submit {
+    background-color: cornflowerblue;
+    font-size: 20px;
+    color: white;
+    margin-left: 5%;
+    padding: 15px 30px;
+    text-align: center;
+}
+
+li {
+    background-color: cornflowerblue;
+    margin-top: 10px;
+    width: 80%;
+    font-size: 16px;
+    color: white;
+    padding: 5px 15px;
+}
