@@ -1,38 +1,23 @@
 <!DOCTYPE html>
-
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <title>Quiz</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-
-<body>
-    <div id="container">
-        <div id="start">Start Quiz!</div>
-        <div id="quiz" style="display: none">
-            <div id="question"></div>
-            <div id="qImg"></div>
-            <div id="choices">
-                <div class="choice" id="A" onclick="checkAnswer('A')"></div>
-                <div class="choice" id="B" onclick="checkAnswer('B')"></div>
-                <div class="choice" id="C" onclick="checkAnswer('C')"></div>
-            </div>
-
-            <div id="timer">
-                <div id="counter"></div>
-                <div id="btimeGauge"></div>
-                <div id="timeGauge"></div>
-            </div>
-            <div id="progress"></div>
+<html>
+    <head>
+        <title>Coding Quiz</title>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta name="viewport" content="width=deive-width, intial scale=1.0">
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+ <body>
+    <a href ="highscore.html">View Highscores!</a>
+    <div id="box">
+        <div id="clock"></div>
+        <div id="questionSection">
+            <h1>Coding Quiz</h1>
+                <p>You have 60 seconds to answer the following web development quiestions, incorrect answers will result in losing 8 seconds.</p>
+                <ul id="answers"></ul>
+                <button id="startButton">Start Quiz!</button>
         </div>
-
-        <div id="scoreContainer" style="display: none"></div>
-        </div>
-
+    </div>
     <script src="script.js"></script>
-
-</body>
-
+ </body>
 </html>
