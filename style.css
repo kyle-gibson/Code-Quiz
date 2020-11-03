@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#box {
+    position: absolute;
+    border: 2px solid black;
+    padding: 5px;
+    text-align: center;
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    left:35%;
+    top:20%;
+}
+
+#clock {
+    float: right;
+}
+
+#startButton {
+    background-color: cornflowerblue;
+    margin-left: auto;
+    padding: 15px 32px;
+    font-size: 20px;
+    color: white;
+}
+
+#questionSection {
+    margin: 15px;
+}
+
+#back {
+    background-color: cornflowerblue;
+    position: relative;
+    padding: 10px;
+    text-align: center;
+    width: auto;
+    color: white;
+    top: 30%;
+    left: 55%;
+}
+
