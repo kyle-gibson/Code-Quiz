@@ -28,4 +28,8 @@ Main Screen
 ![image](https://github.com/kylegibson0827/Code-Quiz/blob/main/code%20quiz.png)
 
 Yes or No Example
-![image](https://github.com/kylegibson0827/Password-Generator-HW/blob/main/yesno.png)
+![image](https://github.com/kylegibson0827/Code-Quiz/blob/main/codequiz2.png)
+
+![image](https://github.com/kylegibson0827/Code-Quiz/blob/main/codequiz3.png)
+
+![image](https://github.com/kylegibson0827/Code-Quiz/blob/main/codequiz4.png)
