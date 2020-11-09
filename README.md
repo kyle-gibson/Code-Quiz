@@ -25,7 +25,7 @@ and their score will be recorded. It is important to note that incorrect answers
 ** Screenshot **
 ---------------------------------------
 Main Screen
-![image](https://github.com/kylegibson0827/Code-Quiz/main/code%quiz.png)
+![image](https://github.com/kylegibson0827/Code-Quiz/blob/main/code%20quiz.png)
 
 Yes or No Example
 ![image](https://github.com/kylegibson0827/Password-Generator-HW/blob/main/yesno.png)
