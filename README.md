@@ -24,10 +24,9 @@ and their score will be recorded. It is important to note that incorrect answers
 
 ** Screenshot **
 ---------------------------------------
-Click, Start Quiz to begin
+
 ![image](https://github.com/kylegibson0827/Code-Quiz/blob/main/code%20quiz.png)
 
-Answer each of these multiple choice question, be aware of how much time you have left!
 ![image](https://github.com/kylegibson0827/Code-Quiz/blob/main/codequiz2.png)
 
 ![image](https://github.com/kylegibson0827/Code-Quiz/blob/main/codequiz3.png)
