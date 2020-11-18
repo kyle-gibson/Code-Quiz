@@ -5,6 +5,10 @@ after the questions are answered or the time runs out, the user will be able to 
 and their score will be recorded. It is important to note that incorrect answers will recieve an 8
  second time penalty. The application then allows the user to repeat the process and compare 
  their scores to their past attempts.
+ 
+ ** Link to Deployed Application **
+---------------------------------------
+https://kyle-gibson.github.io/Code-Quiz/
 
 ** Code Style **
 ---------------------------------------
